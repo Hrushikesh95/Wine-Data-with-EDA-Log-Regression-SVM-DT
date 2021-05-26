@@ -1,1 +1,1 @@
-# Wine-Data-with-EDA-and-Log-Regression
+# Wine-Data-with-EDA-Log-Regression-SVM-DT
